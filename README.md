@@ -11,8 +11,9 @@
 ## 🚀 Run Locally
 ```bash
 # Clone repo
-git clone <your-repo-url>
-cd <repo-directory>
+git clone https://github.com/noopzzmeh/ReliefX.git
+cd ReliefX
+
 
 # Create & activate virtual environment
 python -m venv venv
